@@ -1,0 +1,21 @@
+! Title: adblockhostsonly
+! Description: Filter contains all ad networks and tracking frequently accessed.
+! Last modified: 12 Jul 2024 23:35 UTC+7
+! Expires: 1 days (update frequency)
+!
+locooler-ageneral.com
+getsmartyapp.com
+hetapus.com
+condles-temark.com
+mindmaintee.com
+recordedthereby.com
+dashedheroncapricorn.com
+ancestortrotsoothe.com
+unseenreport.com
+yernbiconic.com
+refpaiozdg.top
+xml-v4.fstsrv11.com
+track.afrsportsbetting.com
+stoicsstright.top
+adokutcontextual.com
+irresponsibilityhookup.com
