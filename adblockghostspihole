@@ -68,10 +68,6 @@ privacymanager.io
 cleverwebserver.com
 stats.wp.com
 cloudfront.net/prebid
-djqunjab.in##+js(remove-node-text, script, deblocker)
-djqunjab.in##+js(noeval-if, /chp_?ad/)
-djqunjab.in##+js(prevent-fetch, googlesyndication)
-djqunjab.in##+js(abort-on-stack-trace, document.getElementsByTagName, adsBlocked)
 zeotap.com
 pubfuture-ad.com
 holid.io
