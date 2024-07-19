@@ -1,6 +1,6 @@
 ! Title: adblockhostsonly
 ! Description: Filter contains all ad networks and tracking frequently accessed.
-! Last modified: 12 Jul 2024 23:35 UTC+7
+! Last modified: 19 Jul 2024 23:35 UTC+7
 ! Expires: 1 days (update frequency)
 !
 
@@ -51,6 +51,10 @@ cdn4ads.com
 aaccgames.com
 cdn.awsusor1.fds.api.mi-img.com
 firebaseinappmessaging.googleapis.com
+amung.us
+cubeuptownpert.com
+pubadx.one
+track.us.org
 
 
 adtago.s3.amazonaws.com
@@ -184,5 +188,6 @@ api-adservices.apple.com
 books-analytics-events.apple.com
 weather-analytics-events.apple.com
 notes-analytics-events.apple.com
+
 
 
